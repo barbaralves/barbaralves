@@ -2,7 +2,7 @@
 
 - 👩‍💻 Programming skills: C, C++, Haskell, Prolog, Git, Web development, Bootstrap
 - 📚 Student in Computer Engineering - Federal University of Itajubá
-- 💼 Advisor to the President - <a href="https://byronsolutions.com"  target="_blank">byron.solutions</a>
+- 💼 Presidential assistant - <a href="https://byronsolutions.com"  target="_blank">byron.solutions</a>
 - 🔭 I’m currently working on learning new programming languages
 
 ### 📫 How to reach me
