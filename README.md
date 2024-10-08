@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👩‍💻 Programming skills: C, C++, Haskell, Prolog, Git, Web development, Bootstrap
+- 👩‍💻 Programming skills: C, C++, Java, Web development, Bootstrap, Automation
 - 📚 Student in Computer Engineering - Federal University of Itajubá
-- 💼 Presidential manager - <a href="https://byronsolutions.com"  target="_blank">byron.solutions</a>
+- 💼 Product Owner/Scrum Master/Product Manager to Automation - <a href="https://br.pg.com/"  target="_blank">P&G Brasil</a>
 - 🔭 I’m currently working on learning new programming languages
 
 ### 📫 How to reach me
