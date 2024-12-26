@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👩‍💻 Programming skills: C, C++, Java, Web development, Bootstrap, Automation
-- 📚 Student in Computer Engineering - Federal University of Itajubá
-- 💼 Product Owner/Scrum Master/Product Manager to Automation - <a href="https://br.pg.com/"  target="_blank">P&G Brasil</a>
+- 📚 Computer Engineering - Federal University of Itajubá
+- 💼 Software Engineering - <a href="https://br.pg.com/"  target="_blank">P&G Brasil</a>
 - 🔭 I’m currently working on learning new programming languages
 
 ### 📫 How to reach me
